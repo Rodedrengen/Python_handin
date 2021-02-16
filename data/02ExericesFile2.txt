@@ -1,0 +1,3 @@
+John 40 male
+Mikkel 55 Male
+Cecillie 17 Female
