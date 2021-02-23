@@ -1,0 +1,29 @@
+Rayan Hodgson, male, https://thispersondoesnotexist.com/
+Course name: Environmental Anthropology, Classroom: James Bond Fiction, Teacher: Juno Wolfe, ECTS: 10, Grade: -3
+Course name: Obstetrics, Classroom: Aslan Fiction, Teacher: Jakub Dalton, ECTS: 15, Grade: -3
+Course name: Forensic Developmental Psychology, Classroom: Sphinx Fiction, Teacher: Rayan Hodgson, ECTS: 5, Grade: 4
+Course name: Environmental Anthropology, Classroom: Darth Vader Fiction, Teacher: Jakub Dalton, ECTS: 5, Grade: 2
+Course name: Oral Literature Studies, Classroom: Jedi Fiction, Teacher: Jonathan Nava, ECTS: 20, Grade: 4
+Course name: Obstetrics, Classroom: Sphinx Fiction, Teacher: Jakub Dalton, ECTS: 10, Grade: 12
+Course name: Oral Literature Studies, Classroom: Ron Fiction, Teacher: Viola Lang, ECTS: 30, Grade: -3
+Course name: Police Science, Classroom: Ron Fiction, Teacher: Clement Hagan, ECTS: 5, Grade: 2
+
+Jonathan Nava, male, https://thispersondoesnotexist.com/
+Course name: Nutritional Anthropology, Classroom: James Bond Fiction, Teacher: Rayan Hodgson, ECTS: 30, Grade: 7
+Course name: Obstetrics, Classroom: James Bond Fiction, Teacher: Joan Lindsay, ECTS: 20, Grade: 4
+
+Zunaira Wright, female, https://thispersondoesnotexist.com/
+Course name: Obstetrics, Classroom: Batman Fiction, Teacher: Jonathan Nava, ECTS: 5, Grade: 4
+Course name: Philosophy of Music, Classroom: Jedi Fiction, Teacher: Clement Hagan, ECTS: 15, Grade: 4
+Course name: Conducting, Classroom: Darth Vader Fiction, Teacher: Joan Lindsay, ECTS: 20, Grade: 0
+Course name: Public Administration, Classroom: Aslan Fiction, Teacher: Zunaira Wright, ECTS: 20, Grade: -3
+Course name: Public Administration, Classroom: Ron Fiction, Teacher: Jakub Dalton, ECTS: 20, Grade: 2
+
+Jakub Dalton, male, https://thispersondoesnotexist.com/
+Course name: Federal Law, Classroom: Ron Fiction, Teacher: Zunaira Wright, ECTS: 5, Grade: 4
+
+Joan Lindsay, male, https://thispersondoesnotexist.com/
+Course name: Public Administration, Classroom: James Bond Fiction, Teacher: Juno Wolfe, ECTS: 5, Grade: 10
+Course name: Forensic Developmental Psychology, Classroom: James Bond Fiction, Teacher: Jakub Dalton, ECTS: 5, Grade: 2
+Course name: Federal Law, Classroom: Ron Fiction, Teacher: Viola Lang, ECTS: 15, Grade: -3
+
